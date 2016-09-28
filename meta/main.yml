@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Denis Khabarov
+  description: Add offical percona repository
+  license: GPLv3
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+     - trusty
+     - xenial
+     - precise
+  - name: Debian
+    versions:
+     - jessie
+  categories:
+  - development
+dependencies: []
